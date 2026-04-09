@@ -1,7 +1,7 @@
 # Hi, I'm Andrei 👋
 ### Telegram Bot Developer | AI Automation | Python
 
-I build Telegram bots that solve real business problems — with AI, payment integrations, and production-grade deployment.
+I build Telegram bots that solve real business problems - with AI, payment integrations, and production-grade deployment.
 
 ---
 
@@ -36,11 +36,11 @@ I build Telegram bots that solve real business problems — with AI, payment int
 
 ### 🌟 Featured Projects
 
-* [🔊 TTS Bot](https://github.com/IDonRumata/TTS_TG_bot) — Voice bot with translation and payment plans.
-* [📈 S&P500 Screener](https://github.com/IDonRumata/sp500-bounce-bot) — AI-powered stock analysis with Telegram alerts.
-* [🎓 English Tutor Bot](https://github.com/IDonRumata/english_tutor_bot) — Adaptive AI language tutor.
-* [💰 Fin-Reboot Bot](https://github.com/IDonRumata/Fin-Reboot-Bot) — 5-day investment course bot with online payments.
-* [📝 Content Factory](https://github.com/IDonRumata/grafin-assistant) — AI-driven content parsing, rewriting, and auto-posting.
+* [🔊 TTS Bot](https://github.com/IDonRumata/TTS_TG_bot) - Voice bot with translation and payment plans.
+* [📈 S&P500 Screener](https://github.com/IDonRumata/sp500-bounce-bot) - AI-powered stock analysis with Telegram alerts.
+* [🎓 English Tutor Bot](https://github.com/IDonRumata/english_tutor_bot) - Adaptive AI language tutor.
+* [💰 Fin-Reboot Bot](https://github.com/IDonRumata/Fin-Reboot-Bot) - 5-day investment course bot with online payments.
+* [📝 Content Factory](https://github.com/IDonRumata/grafin-assistant) - AI-driven content parsing, rewriting, and auto-posting.
 
 ---
 
