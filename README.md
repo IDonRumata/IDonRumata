@@ -1,5 +1,5 @@
 # Hi, I'm Andrei 👋
-### Telegram Bot Developer | AI Automation | Python
+### Telegram Bot Developer | AI Automation | Python | n8n
 
 I build Telegram bots that solve real business problems - with AI, payment integrations, and production-grade deployment.
 
